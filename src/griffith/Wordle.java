@@ -1,4 +1,4 @@
-//Name : Somik Chowdhury //Student Number : 3164459
+//Name : Somik Chowdhury 
 
 package griffith;
 import java.util.Scanner;
